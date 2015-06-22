@@ -1,5 +1,4 @@
 # Internship
-Internship
 Перед тем, как перейти к основным заданиям, предлагаем ознакомиться поближе с Python и GitHub:
 1)	http://www.datacommunitydc.org/blog/2013/07/python-for-data-analysis-the-landscape-of-tutorials
 2)	
