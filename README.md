@@ -1,7 +1,7 @@
 # Internship  
 Перед тем, как перейти к основным заданиям, предлагаем ознакомиться поближе с Python и GitHub:  
-1)  http://www.datacommunitydc.org/blog/2013/07/python-for-data-analysis-the-landscape-of-tutorials  
-2)  http://git-scm.com/doc  
+- http://www.datacommunitydc.org/blog/2013/07/python-for-data-analysis-the-landscape-of-tutorials  
+- http://git-scm.com/doc  
   
 Задание 1. Прогнозирование временного ряда   
 В файле Trend_task.txt представлена информация о месячном обороте компании Wheely в трех городах с апреля 2013 по январь 2015 гг. Необходимо построить модель для предсказания выручки на следующие пять месяцев (февраль-июнь 2015 года).  
